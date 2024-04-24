@@ -5,3 +5,23 @@ body {
   background-color: #111;
   font-family: sans-serif;
 }
+.header {
+  width: 375px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.button-start {
+  width: 140px;
+  height: 48px;
+  background-color: #13183f;
+  color: #fff;
+  text-align: center;
+  align-content: center;
+  border-radius: 28px;
+}
+
+.logo-dark {
+}
